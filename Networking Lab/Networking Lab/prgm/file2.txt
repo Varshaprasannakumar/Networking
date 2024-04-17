@@ -1,0 +1,1 @@
+Linux is a free, open source operating system, released under the GNU General Public License (GPL).
